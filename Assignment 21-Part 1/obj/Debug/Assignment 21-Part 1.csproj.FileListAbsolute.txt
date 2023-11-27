@@ -1,0 +1,7 @@
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\bin\Debug\Assignment 21-Part 1.exe.config
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\bin\Debug\Assignment 21-Part 1.exe
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\bin\Debug\Assignment 21-Part 1.pdb
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\obj\Debug\Assignment 21-Part 1.csproj.AssemblyReference.cache
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\obj\Debug\Assignment 21-Part 1.csproj.CoreCompileInputs.cache
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\obj\Debug\Assignment 21-Part 1.exe
+D:\Mphasis\ASSIGNMENTS\Assignment-21\Assignment 21-Part 1\obj\Debug\Assignment 21-Part 1.pdb
